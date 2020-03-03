@@ -24,10 +24,11 @@ public class Game {
      */
     public void addPlayer(Player player) {
       // TODO: Votre code ici
+        //history.put(player,coinState);
     }
 
     /**
-     * Faire joueur tous les joueurs et stocker chaque partie dans history
+     * Faire jouer tous les joueurs et stocker chaque partie dans history
      */
     public void play() {
       // TODO: Votre code ici
